@@ -1,0 +1,17 @@
+{
+  "client_id": "https://raw.githubusercontent.com/StealthEyeLLC/stealtheye/muse-cimd-20261025/oauth/muse-client.json",
+  "client_name": "Muse - StealthEye Personal Cloud Contributor",
+  "redirect_uris": [
+    "http://127.0.0.1:8080/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "scope": "link.observe link.act",
+  "application_type": "native"
+}
